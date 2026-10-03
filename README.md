@@ -54,8 +54,17 @@ Auch ohne Programmierkenntnisse lassen sich damit Fragen untersuchen wie:
 - An welchen Wochentagen war die Pünktlichkeit besonders niedrig?
 - Wie unterscheidet sich die Pünktlichkeit morgens und abends?
 
-## Quelle und Hinweis
+## Quelle und Lizenz
 
-Grundlage sind Daten der DB Timetables API.
+Datenquelle: Deutsche Bahn, DB Timetables API.
 
-Dies ist ein unabhängig erhobener und aufbereiteter Datensatz und keine Veröffentlichung der Deutschen Bahn.≈
+Die zugrunde liegenden Daten der DB Timetables API werden von der Deutschen Bahn unter der Lizenz **Creative Commons Attribution 4.0 International (CC BY 4.0)** bereitgestellt.
+
+Lizenz: https://creativecommons.org/licenses/by/4.0/
+
+Informationen zur DB Timetables API:
+https://developers.deutschebahn.com/db-api-marketplace/apis/product/timetables
+
+Die hier veröffentlichten Daten wurden aus den über die API erhobenen Daten gefiltert, dedupliziert und aufbereitet. Es handelt sich nicht um eine Veröffentlichung der Deutschen Bahn.
+
+Die Deutsche Bahn übernimmt für die über die API bereitgestellten Daten keine Gewähr für Richtigkeit und Vollständigkeit.
